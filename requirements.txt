@@ -4,7 +4,7 @@ et-xmlfile==1.0.1
 freeze==1.0.10
 html5lib==1.0.1
 jdcal==1.4
-lxml==4.3.0
+lxml==4.6.2
 numpy==1.16.0
 openpyxl==2.5.12
 pandas==0.23.4
